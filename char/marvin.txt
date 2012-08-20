@@ -1,0 +1,185 @@
+# Bio
+* Character Name: Marvin D'rogash
+* Class: Fighter
+    * Guardian Fighter
+    * Single-handed weapons
+* Race: Dragonborn
+* Gender: Male
+
+# Stats
+## Basics
+* Size: Medium
+* Total XP: 1030
+    * Level: 2
+
+## Initiative
+
+## Abilitiy Scores
+* Strength: 18
+    * STR mod: 4
+* Constitution: 12
+    * CON mod: 1
+* Dexterity: 16
+    * DEX mod: 3
+* Intelligence: 9
+    * INT mod: -1
+* Wisdom: 11
+    * WIS mod: 0
+* Charisma: 13
+    * CHA mod: 1
+
+## Defenses
+* Base: 10
+* 1/2 Level: 1
+* Armour/Ability: 9
+    * AC: 20
+
+## Fortitude
+* Base: 10
+* 1/2 Level: 1
+* Ability: 4
+* Class: 2 (Fighter)
+    * FORT: 17
+
+## Reflexes
+* Base: 10
+* 1/2 Level: 1
+* Ability: 3
+* Misc: 2 (XXX from where?)
+    * REF: 15
+
+## Movement
+* Base 6
+* Armour: -XXX
+* Item: -XXX
+    * Speed: 6
+
+## HP
+* Fighter Base HP: 15 + Constitution Score
+* Level Bonus: (Level - 1) * 6
+    * Max HP: 33
+    * Bloodied: 16
+    * Surge Value: 8
+* Base Surges Per Day: 9 + CON mod
+    * Surges Per Day: 10
+
+## Attack
+### Long sword
+* 1/2 Level: 1
+* Ability: 4
+* Class: 1 (Fighter Weapon Talent: one-handed weapon)
+* Proficiency: 3
+    * ATT: 9
+* Damage: 1d8
+
+### Short bow
+* 1/2 Level: 1
+* Ability: XXX
+* Class: 0
+* Proficiency: XXX
+* Damage: XXX
+
+#### Running totals
+* Arrows used: 0
+
+# Features
+## Race features
+### Dragon's Breath
+* Use: Encounter
+* Action: Minor
+* Targets: All creatures in area
+* Type: Close blast 3
+* Breath: Acid
+* Attack: STR mod + 2 vs Reflex
+    * Alt Attack: CON mod + 2 vs Reflex
+    * Alt Attack: DEX mod + 2 vs Reflex
+* Damage: 1d6 + CON mod (update at Level 11)
+
+## Class features
+### Combat Challenge
+* When: Every attack on an enemy, whether it hits or misses.
+* How: Mark 1 enemy. Only 1 mark may be marked at a time. New mark deletes old
+  one.
+
+#### Effects
+* Marked enemy attacks that do not include me as a target suffer -2 penalty on
+  attack rolls.
+* Adjacent marked enemy attacks that do not include me as a target, and adjacent
+  marked enemy shifts, allow me to make a melee basic attack Immediate Interrupt
+  against them.
+
+### Combat Superiority
+* When: Opportunity Attacks. (when someone moves away from me?)
+
+#### Effects
+* Opportunity attacks get a bonus equal to WIS mod.
+* If such an attack hits, the enemy loses its move (but may still move if it has
+  sufficient actions).
+
+### Fighter Weapon Talent
+* When: Every attack using your chosen weapon type (i.e., either one- or
+  two-handed).
+
+#### Effects
+* Gain +1 bonus to attack rolls.
+
+# Powers
+## At-Will Powers
+### Sure Strike
+* Idea: Trade power for precision.
+* Action: Standard
+* Target: One creature
+* Attack: STR mod + 2 vs AC
+* Damage: 1[W] (update at Level 21)
+
+### Tide of Iron
+* Idea: After each swing, push back the enemy with your shield.
+* Action: Standard
+* Target: One creature
+* Attack: STR mod vs AC
+* Damage: 1[W] + STR mod
+
+#### Effects
+* If the enemy is my size, smaller, or one category larger, shift it _back_ one
+  space.
+* Optionally, I may shift into the target's original space.
+
+## Encounter Powers
+### Covering Attack
+* Idea: A barrage of attacks allows an ally to retreat from the foe.
+* Action: Standard
+* Target: One creature
+* Attack: STR mod vs AC
+* Damage: 2[W] + STR mod
+
+#### Effects
+* An ally adjacent to the target can shift 2 squares.
+
+## Daily Powers
+### Comeback Strike
+* Idea: Striking a hated foe gives you the resolve to fight on.
+* Action: Standard
+* Target: One creature
+* Attack: STR mod vs AC
+* Damage: 2[W] + STR mod
+
+#### Effects
+* Optionally, I may spend a healing surge as part of this action.
+
+# Inventory
+## Equipment
+
+  Qty Description                       Effects
+----- --------------------------------- ------------------------------
+    1 Scale armour                      (+7)
+    1 Heavy shield                      (+2)
+    1 Long sword                        (1d8) (+3 prof)
+    1 Short bow                         (XXX)
+   30 Arrows
+
+## Wealth
+
+  Qty Description
+----- ---------------------------------
+    5 GP
+
